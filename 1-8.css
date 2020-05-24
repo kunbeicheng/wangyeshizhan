@@ -12,7 +12,7 @@
 			.kuang2>ul>li>a{color: #050505;}
 			.kuang2>ul>li{height: 40px;line-height: 40px; padding-left: 8px;padding-right: 8px;float: left;margin-left: 30px;margin-top: 25px;letter-spacing: 2px;}
 			.kuang2>ul>li:hover{ border-bottom: 2px solid #00A4FF;}
-			#shouye{border-bottom: 2px solid #00A4FF;position: relative;}
+			#shouye{/*border-bottom: 2px solid #00A4FF;*/position: relative;}
 			.kuang2>ul .erji{display: none;position: absolute;padding-top: 9px;padding-right: 68px;left:-240px}
 			#shang2{height: 4px;}
 			.kuang2>ul>li:hover .erji{display: block;}
